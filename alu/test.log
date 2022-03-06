@@ -1,0 +1,23 @@
+WARNING: alu_tb.sv:21: $readmemh(test.hex): Not enough words in the file for the requested range [0:1023].
+FST info: dumpfile test.fst opened for output.
+ALU: 0x000
+ALU: 0x040 [@]
+ALU: 0x048 [H]
+ALU: 0x052 [R]
+ALU: 0x000
+ALU: 0x03f [?]
+ALU: 0x000
+ALU: 0xfff
+ALU: 0xffe
+ALU: 0xfc0
+ALU: 0x03f [?]
+ALU: 0x03f [?]
+ALU: 0x03f [?]
+ALU: 0xfc0
+ALU: 0x040 [@]
+ALU: 0x03f [?]
+ALU: 0x001
+ALU: 0x03f [?]
+ALU: 0xfc0
+ALU: 0x03f [?]
+ALU: END
